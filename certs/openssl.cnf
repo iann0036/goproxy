@@ -35,5 +35,5 @@ commonName_default		= goproxy.github.io
 commonName_max			= 64
 
 emailAddress			= Email Address
-emailAddress_default		= elazarl@gmail.com
+emailAddress_default		= iann0036@gmail.com
 emailAddress_max		= 64
